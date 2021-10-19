@@ -1,5 +1,5 @@
 - 👋 I’m @dietmar-schoder
-- 👀 I’m running the schoder art gallery and museum in london
+- 👀 I’m running the schoder london gallery museum www.schoder.uk
 - 🌱 I’m currently learning everything
 - 💞️ I’m looking to collaborate on all sorts of algorithmic, generative, digital art
 - 📫 get in touch: dietmar@schoder.uk
