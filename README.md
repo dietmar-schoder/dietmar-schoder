@@ -1,7 +1,7 @@
 - 👋 I’m @dietmar-schoder
-- 👀 I’m running the schoder london gallery museum www.schoder.uk
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on all sorts of algorithmic, generative, digital art
+- 👀 I’m the founder of the london music video festival
+- 🌱 I’m a software architect and a digial artist
+- 💞️ I’m looking to collaborate on all sorts of art
 - 📫 get in touch: dietmar@schoder.uk
 
 <!---
