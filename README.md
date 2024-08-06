@@ -1,7 +1,7 @@
 - 👋 I’m @dietmar-schoder
-- 👀 I’m the founder of the london music video festival
+- 👀 I’m the founder of fuehrr.com
 - 🌱 I’m a software architect and a digial artist
-- 💞️ I’m looking to collaborate on all sorts of art
+- 💞️ I’m looking to collaborate on all sorts of software architecture
 - 📫 get in touch: dietmar@schoder.uk
 
 <!---
