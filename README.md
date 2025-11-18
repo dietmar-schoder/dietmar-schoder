@@ -1,7 +1,7 @@
 - 👋 I’m Schoder Factory Ltd
 - 👀 I’m running the Schoder Online Gallery at schoder.uk
 - 🌱 I’m a digital art company in the United Kingdom
-- 💞️ I’m looking to collaborate on all sorts of software architecture
+- 💞️ I’m looking to collaborate on all sorts of software architecture and digital art
 - 📫 get in touch: office@schoder.uk
 
 <!---
